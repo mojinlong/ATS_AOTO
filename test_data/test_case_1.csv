@@ -1,0 +1,4 @@
+feature,story,method,URL,name,data
+审计,分页查询审计记录,get_params,/api/admin/audit/1.0/getWithPage,分页查询审计成功,{'msg':'操作成功'}
+审计,查询操作历史,get_params,/api/admin/audit/1.0/getHistory,查询操作历史成功,{'msg':'操作成功'}
+角色,创建角色,post_body,/api/admin/role/1.0,多个角色创建成功,"{'msg':'编码已被使用,请尝试其他编码'}"

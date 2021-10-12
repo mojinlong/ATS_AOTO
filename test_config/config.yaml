@@ -1,0 +1,21 @@
+department_list:
+- 1
+- 2
+- 3
+- 4
+goods:
+  id: 1182
+  name:
+    high: High
+    low: iow
+    low1: Low
+    lowbag: Lowbag
+    pkg: Pkg
+id: 0
+role:
+  custodian: 一级供应商角色
+  hospital: 医院角色
+  operator: 服务商角色
+  supplier: 供应商角色
+testname: 测试科室
+time: '0715101326'
